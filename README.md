@@ -32,19 +32,6 @@
 
 **ESP32 WiFi Chat** is an ESP32-based wireless messaging system that allows multiple users to communicate through a locally hosted WiFi network.
 
-The ESP32 creates its own WiFi hotspot and hosts a chat interface using a Captive Portal.
-
-Simply connect your smartphone, tablet, or laptop to the ESP32 WiFi network, select a username, and start chatting!
-
-No internet connection required.
-
-No cloud server required.
-
-No third-party messaging application required.
-
-Just connect and chat. ⚡
-
----
 
 ## ✨ Features
 
@@ -328,6 +315,6 @@ If you like this project:
 
 <img src="https://img.shields.io/badge/ESP32-WiFi%20Chat-red?style=for-the-badge&logo=espressif"/>
 
-**© 2026 Krishna Rajput UP61. All Rights Reserved.**
+**© 2026 GodxShadow - Krishna Rajput UP61. All Rights Reserved.**
 
 </div>
