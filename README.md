@@ -9,7 +9,7 @@ Flash Here 👉  <a href="https://esp32king.pages.dev">Esptool.spacehuhn.com</a>
 # 2nd Step
 <a href="https://github.com/esp32king2/Esp32-WiFi-Chat/raw/refs/heads/main/bootloader.bin">bootloader.bin</a> → 0x1000
 
-<a href="https://github.com/esp32king2/Esp32-WiFi-Chat/raw/refs/heads/main/bootloader.bin">partitions.bin</a> → 0x8000
+<a href="https://github.com/esp32king2/Esp32-WiFi-Chat/raw/refs/heads/main/partitions.bin">partitions.bin</a> → 0x8000
 
 <a href="https://github.com/esp32king2/Esp32-WiFi-Chat/raw/refs/heads/main/Esp32-WiFi-Chat-On-Captive-Portal.bin">ESP32-WiFi-Chat.bin</a> → 0x10000
 
